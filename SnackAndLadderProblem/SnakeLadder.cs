@@ -57,7 +57,7 @@ namespace SnackAndLadderProblem
                 else if (position == 100)
                     break;
                 countTimes++;
-                Console.WriteLine(countTimes);
+                Console.WriteLine("Times of Play "+countTimes);
 
             }
         }
